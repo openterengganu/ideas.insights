@@ -1,7 +1,8 @@
 # ideas.insights
 
-#Github page
+##Github page
 https://cfpb.github.io
 
-#Parliment week
+##Parliment week
 Scrape bills from parlimentery activties.
+http://www.helpfultechnology.com/case-study/parliament-week/
